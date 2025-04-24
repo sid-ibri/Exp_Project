@@ -113,10 +113,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 5. Create a pull request on the original repository to propose your changes.
 
-## Acknowledgments
 
-- Thanks to the Django community for creating such a powerful web framework.
-
-- The automated expense categorization and prediction features are powered by machine learning models, which were trained using various open-source libraries and datasets.
-
-Feel free to customize and enhance this expense tracker according to your needs. Happy budgeting!
